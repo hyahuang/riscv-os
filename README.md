@@ -6,7 +6,7 @@ Implement multiple system calls from your OS design.
 * React to video interrupt
 * Draw to the background, large and small sprites
 
-# List some function of the Operating System
+# List some functions of the Operating System
 
  
 
