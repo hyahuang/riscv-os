@@ -23,7 +23,6 @@ Implement multiple system calls from your OS design.
     Ex. Press a Large sprite moves left, small sprite moves right.
 
 3. thread_initiallize: initialize a thread.
-    My thread function in cartridge
     ### Demo:
     ![preview](https://i.imgur.com/utewlfJ.png)
     
